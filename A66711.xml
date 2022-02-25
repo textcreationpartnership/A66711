@@ -1,0 +1,413 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Say on, or, A seasonable plea for a full hearing betwixt man and man and a serious plea for the like hearing betwixt God and man : delivered in a sermon at Chelmsford in Essex, at the general assize holden for the said county, before the Honourable Sir Timothy Littleton, one of His Majesty's Barons of the Exchecquer, July 8, 1678 / by Anthony Walker ...</title>
+            <author>Walker, Anthony, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66711</idno>
+            <idno type="STC">Wing W308</idno>
+            <idno type="STC">ESTC R5261</idno>
+            <idno type="EEBO-CITATION">12634713</idno>
+            <idno type="OCLC">ocm 12634713</idno>
+            <idno type="VID">64848</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66711)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64848)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 337:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Say on, or, A seasonable plea for a full hearing betwixt man and man and a serious plea for the like hearing betwixt God and man : delivered in a sermon at Chelmsford in Essex, at the general assize holden for the said county, before the Honourable Sir Timothy Littleton, one of His Majesty's Barons of the Exchecquer, July 8, 1678 / by Anthony Walker ...</title>
+                  <author>Walker, Anthony, d. 1692.</author>
+               </titleStmt>
+               <extent>[6], 53 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nathanael Ranew ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Samuel, 2nd, XIV, 12 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64848:1"/>
+            <pb facs="tcp:64848:1" rendition="simple:additions"/>
+            <p>SAY ON: OR, A Seaſonable Plea FOR A FULL HEARING BETWIXT Man and Man.</p>
+            <p>And, a Serious Plea for the like Hearing, betwixt God and Man.</p>
+            <p>Delivered in a SERMON AT <hi>Chelmſford</hi> in <hi>Eſſex,</hi> at the General Aſſrze holden for the ſaid County, before the Honourable Sir <hi>Timothy Littleton,</hi> one of his Majeſty's Barons of his Exchecquer: <hi>July</hi> 8. 1678.</p>
+            <p>By <hi>Anthony Walker,</hi> D. D. Rector of <hi>Fyfield</hi> in the ſame County.</p>
+            <q>
+               <bibl>
+                  <hi>Luk. 7.40.</hi>
+               </bibl> Maſter, Say on.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nathanael Ranew</hi> at the <hi>King's Arms</hi> in S. <hi>Paul</hi>'s Church-Yard. 1679.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:64848:2"/>
+            <pb facs="tcp:64848:2"/>
+            <head>To the Right Worſhip<g ref="char:EOLhyphen"/>ful S<hi rend="sup">r.</hi> WILLIAM DYER Baronet, of <hi>Tottenham-high-croſs,</hi> High Sheriff of the County of <hi>Eſſex.</hi>
+            </head>
+            <opener>
+               <salute>WORTHY SIR,</salute>
+            </opener>
+            <p>YOu cannot be more ſurpriſed to ſee thoſe Notes made publick, than I was (being then ſo wholly a ſtranger to you) by your deſi<g ref="char:EOLhyphen"/>ring me to perform that ſervice which occaſioned their compoſure. And though you us'd a civil Apology, for giving me ſo ſhort a warning for
+<pb facs="tcp:64848:3"/>ſo ſolemn an appearance, I ſhall trouble you and the world with none, for yield<g ref="char:EOLhyphen"/>ing to their importunity who drew them from me.</p>
+            <p>I confeſs an obvious objection oc<g ref="char:EOLhyphen"/>curred, which would have reſiſted all their entreaties, had I esteemed ſo low a conſideration, as my own reputation, fit to be put into the balance againſt the good, I was made believe, they may do, <hi>viz.</hi> leſt the acceptance they obtain'd, when tranſiently delivered to the ear, they ſhould loſe, when expo<g ref="char:EOLhyphen"/>ſed to the ſeverer cenſure of the Eye. It being no unuſual thing for Diſ<g ref="char:EOLhyphen"/>courſes to ſink, when diveſted of the advantage of being ſpoken with ſome quickneſs, warmth, and <hi>pa<g ref="char:EOLhyphen"/>thos.</hi> But if they meet with com<g ref="char:EOLhyphen"/>mon candour in the Reader, which I requeſt, and modeſtly expect, I hope they may be uſeful. However, his ex<g ref="char:EOLhyphen"/>pence will be ſo little, either of mo<g ref="char:EOLhyphen"/>ney or time, that a ſmall charity may excuſe his diſappointment, if any hap<g ref="char:EOLhyphen"/>pen.</p>
+            <pb facs="tcp:64848:3"/>
+            <p>I have, Sir, inſcribed your name up<g ref="char:EOLhyphen"/>on them, as a teſtimony of my re<g ref="char:EOLhyphen"/>ſpects, the omiſſion of which would have been ſo indecent, that I hope it will neither by your ſelf, nor others, be imputed as a fault, to</p>
+            <closer>
+               <salute>Worthy Sir,</salute>
+               <signed>
+                  <hi>Your Loving Friend and Servant</hi> Anthony Walker.</signed>
+               <dateline>
+                  <date>July <hi>17, 1678.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:64848:4"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>
+                  <hi>Geo. Thorp</hi> Rever. Patri <hi>Guliel.</hi> Ar<g ref="char:EOLhyphen"/>chiep. <hi>Cant.</hi> a ſac. Domeſt.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:64848:4"/>
+            <head>AN Aſsize Sermon: DELIVERED AT <hi>Chelmſford,</hi> July 8. 1678.</head>
+            <epigraph>
+               <bibl>
+                  <hi>2 SAM. 14.12.</hi>
+               </bibl>
+               <q>Say on.</q>
+            </epigraph>
+            <p>THough a <hi>Short</hi> Text, and as <hi>Short</hi> a Warning be no good <hi>Prefaces</hi> to a long Sermon, they may be no <hi>bad</hi> or unwelcome <hi>Earneſts</hi> of a <hi>ſhort</hi> one, as I deſign this ſhall be,
+<pb n="2" facs="tcp:64848:5"/>not to comply with the humour of thoſe un-devout Souls, to whom e<g ref="char:EOLhyphen"/>very thing is <hi>tedious</hi> which is <hi>ſeri<g ref="char:EOLhyphen"/>ous,</hi> and to whom holy <hi>David</hi> him<g ref="char:EOLhyphen"/>ſelf, though the ſweet Singer of <hi>Iſrael, prolixe canit,</hi> is too long: as St. <hi>Gregory Nazianzen</hi> obſerves in his ſixteenth Oration, and the ſa<g ref="char:EOLhyphen"/>cred <hi>Melody</hi> of whoſe <hi>Pſalms</hi> can<g ref="char:EOLhyphen"/>not expiate, or atone for the <hi>length</hi> of them.</p>
+            <p>But to comport decently with the preſent occaſion, that the <hi>Pul<g ref="char:EOLhyphen"/>pit</hi> may not intrench upon the <hi>Tri<g ref="char:EOLhyphen"/>bunal,</hi> nor the <hi>firſt</hi> Table over-lay the <hi>ſecond;</hi> or crowd it up into too narrow a room.</p>
+            <p>The words are a very <hi>ſmall,</hi> yet a moſt <hi>conſiderable</hi> part, of the <hi>lar<g ref="char:EOLhyphen"/>geſt</hi> and beſt managed Parable in all the old Teſtament; contrived by ſubtle <hi>Joab,</hi> and carried on, and acted by the <hi>wiſe Woman</hi> of <hi>Te<g ref="char:EOLhyphen"/>koah,</hi> whom the Jewiſh <hi>Rabbins</hi> will needs have to be the <hi>Grandmo<g ref="char:EOLhyphen"/>ther</hi>
+               <pb n="3" facs="tcp:64848:5"/>of the Prophet <hi>Amos,</hi> a Na<g ref="char:EOLhyphen"/>tive and Inhabitant of the ſame place, which, .S. <hi>Jerom</hi> tells us, was a ſmall Town nine Miles diſtant from <hi>Jeruſalem.</hi>
+            </p>
+            <p>The uſe of <hi>Parables,</hi> though it was not unknown to other Nations, witneſs that famous one of <hi>Menius Agrippa</hi> among the Romans, by which he ſucceſsfully appeaſed a dangerous, popular Sedition; and thoſe many witty ones of honeſt <hi>Eſop,</hi> amongſt the Grecians; yet was it more ſignally frequent amongſt the Hebrews and Syrians, as the Learned <hi>Grotius</hi> obſerves; and as by that remarkable one of <hi>Jotham,</hi> Judg. 9. and many other in the Old Teſtament; and by our Saviours frequent uſe of them, evidently ap<g ref="char:EOLhyphen"/>pears.</p>
+            <p>And though the <hi>firſt</hi> Deſign of them ſeems to have been to inſtruct the rude and ignorant multitude, whoſe minds are leſs ſuſceptive of
+<pb n="4" facs="tcp:64848:6"/>the impreſſions of ſolid Reaſon, they being a kind of mental Pictures, (and you know who call Pictures <hi>Lay-mens</hi> Books) by which the matter is repreſented more lively to the Fancy and Imagination.</p>
+            <p>Yet the <hi>ſecond</hi> end of them is to inſinuate conviction and reproof in<g ref="char:EOLhyphen"/>ſenſibly into their minds, who would be leſs patient of it, in expreſs words, or plainer Reprehenſions. And thus <hi>Nathan</hi> had proceeded with <hi>David</hi> in the caſe of <hi>Uriah</hi> and <hi>Bath<g ref="char:EOLhyphen"/>ſheba,</hi> chap. 12. and ſucceeded hap<g ref="char:EOLhyphen"/>pily to enſnare him into <hi>Repentance,</hi> by the <hi>Parable</hi> of the poor Man's Ewe-Lamb.</p>
+            <p>And thus <hi>Joab</hi> by the Woman of <hi>Tekoah</hi> attacks him here, by a fiction of her two Sons ſtriving to<g ref="char:EOLhyphen"/>gether in the Field, and the one ſlaying the other, and the reſt of the Family riſing up to put him to death.</p>
+            <p>The ſcope of the whole was to
+<pb n="5" facs="tcp:64848:6"/>prevail with <hi>David</hi> to recall <hi>Abſolom</hi> from <hi>Geſhur,</hi> whither he had fled, and where he had remained in Ba<g ref="char:EOLhyphen"/>niſhment three years after the ſlay<g ref="char:EOLhyphen"/>ing of his Brother <hi>Amnon.</hi>
+            </p>
+            <p>Although there is a great deal of excellent matter in the <hi>Parable;</hi> and ſome would find even much of the <hi>Goſpel</hi> in it; to inſtance but in one Verſe, <hi>viz.</hi> 14. which runs thus: <hi>For we muſt needs die, and are as water ſpilt upon the ground, which cannot be gathered up again: neither doth God reſpect any perſon, yet doth he deviſe means that his baniſhed be not expelled from him.</hi> As if it im<g ref="char:EOLhyphen"/>ported theſe three Particulars.</p>
+            <p n="1">1. The forlorn Eſtate of man by the firſt <hi>Apoſtacy,</hi> and his deſperate eaſe that can no more recover him<g ref="char:EOLhyphen"/>ſelf, than water ſpilt upon the Ground, and drunk up by it, can be gathered up again.</p>
+            <p n="2">2. That <hi>no wan,</hi> in <hi>David</hi>'s Phraſe, <hi>can redeem his Brother, or give to
+<pb n="6" facs="tcp:64848:7"/>God a ranſome for him.</hi> For <hi>God re<g ref="char:EOLhyphen"/>ſpects</hi> nothing that any Man can do.</p>
+            <p n="3">3. Yet he himſelf helps, when no creature could, by his unſearch<g ref="char:EOLhyphen"/>able wiſdom <hi>deviſing means</hi> (Job 33.24. <hi>Deliver him from the pit, for I have found a ranſome</hi>) by <hi>Chriſt,</hi> to ſatisfie <hi>Juſtice,</hi> and magnifie <hi>Mer<g ref="char:EOLhyphen"/>cy;</hi> to puniſh the <hi>Sin,</hi> and ſpare the <hi>Sinner,</hi> that his baniſhed from <hi>Pa<g ref="char:EOLhyphen"/>radiſe</hi> may not be expelled from <hi>Heaven.</hi>
+            </p>
+            <p>But I muſt diſmiſs and wave whatever is contain'd in the Body of the <hi>Parable,</hi> and ſingle out this ſeaſonable Paſſage, <hi>Say on.</hi>
+            </p>
+            <p>Which words are ſo plain, they need no Explication; and ſo few, they admit no Diviſion: the only <hi>Method</hi> that remains to handle them, ſeems to be this, to conſi<g ref="char:EOLhyphen"/>der, <hi>A quo, cui, quo fine dicta ſunt.</hi>
+            </p>
+            <p n="1">
+               <pb n="7" facs="tcp:64848:7"/>1. <hi>By</hi> whom they were ſpoken By <hi>David,</hi> a <hi>King,</hi> and a <hi>Judge.</hi>
+            </p>
+            <p n="2">2. <hi>To</hi> whom they were ſpoken: To the <hi>Widow</hi> woman of <hi>Tekoah,</hi> a Petitioner, a Plaintiff, who ſtood before him for Help and Judg<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="3">3. <hi>To what end</hi> and intent they were ſpoken: To give her leave and encouragement to make her <hi>Plea</hi> as fully as ſhe could, and to grant her a fair Hearing before he pronounced entence in her caſe.</p>
+            <p>Of theſe in order.</p>
+            <p>Firſt, Of the perſon who ſpake <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem, <hi>David,</hi> the <hi>King,</hi> the <hi>Judge</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whom this Woman addreſſed her <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lf, <hi>verſ.</hi> 4. <hi>Help, O King.</hi> So <hi>v.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>My Lord, O King.</hi> So in this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>welfth Verſe. <hi>Let thy handmaid, I <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y thee, ſpeak one word unto my Lord <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e King: and he ſaid, Say on.</hi>
+            </p>
+            <pb n="8" facs="tcp:64848:8"/>
+            <p>This <hi>Book</hi> is ſtiled by a Learned Expoſitor, the <hi>Throne</hi> of <hi>David,</hi> whom the <hi>Holy Ghoſt</hi> repreſents as the <hi>Exemplar</hi> and <hi>Icon</hi> of an excel<g ref="char:EOLhyphen"/>lent <hi>Magiſtrate,</hi> who himſelf had learn'd and practiſed that Leſſon he taught his Son; <hi>He that rules over men muſt be juſt, ruling in the fear of the Lord.</hi> And this is not the leaſt inſtance and proof of it, (that ac<g ref="char:EOLhyphen"/>cording to the old Verſe,
+<q>—Patiens ſit Judicis auris)</q> he was willing to hear out the <hi>Plea</hi> of her who ſtood before him for help, and by the forgetting which <hi>Rule,</hi> and deflecting from which <hi>Method,</hi> he contracted one of the fouleſt blots we read him to have ſtained his Juſtice with, in all his Government: I mean in the caſe of <hi>Mephiboſheth,</hi> 2 Sam. 19.29. <hi>He ſaid, Why ſpeakeſt thou any more of thy matters, I have ſaid thou and Ziba
+<pb n="9" facs="tcp:64848:8"/>divide the land.</hi> Which precipitate Sentence had been prevented, and an <hi>innocent Maſter</hi> delivered from the ſlanders of a <hi>treacherous ſervant,</hi> if inſtead of <hi>why ſpeakeſt thou any more!</hi> he had ſaid as he doth here, <hi>Say on.</hi>
+            </p>
+            <p>So that the words are a <hi>commend<g ref="char:EOLhyphen"/>able inſtance</hi> (which may have the force of a <hi>ſtanding rule</hi>) of a good <hi>Magiſtrate,</hi> giving leave, and en<g ref="char:EOLhyphen"/>couragement to thoſe who ſtand be<g ref="char:EOLhyphen"/>fore them for Judgment, to ſay all they can to make good their <hi>Plea,</hi> and to grant them a full Hearing.</p>
+            <p>And to ſhew the excellency of this <hi>Rule,</hi> we ſhall look upon the Words under ſeveral <hi>Aſpects.</hi>
+            </p>
+            <p n="1">1. As they are <hi>vox humanae natu<g ref="char:EOLhyphen"/>rae, the voice of humane nature,</hi> break<g ref="char:EOLhyphen"/>ing forth from that firſt principle of it; <hi>Do as thou wouldſt be done by.</hi> No Judge or Magiſtrate, if inſtead of ſitting on the <hi>Bench</hi> (excuſe the ſuppoſition, which I will not make,
+<pb n="10" facs="tcp:64848:9"/>but with a modeſt Apology) he ſhould ſtand at the Bar as a reputed <hi>Criminal,</hi> or as a <hi>Plaintiff</hi> or <hi>Defendant,</hi> would be willing to have Judgment paſs, till his <hi>Plea</hi> were made, and he had ob<g ref="char:EOLhyphen"/>tained a full and fair Hearing. Therefore as we uſe to phraſe it, <hi>Turn the Tables.</hi> Let the <hi>Reverend Judge</hi> ſuppoſe himſelf in his Cir<g ref="char:EOLhyphen"/>cumſtances who comes before him in Judgment, and then do as Na<g ref="char:EOLhyphen"/>ture it ſelf dictates, as he would be done by. Hear him out, ſay as he would deſire it ſhould be ſaid to him<g ref="char:EOLhyphen"/>ſelf. <hi>Say on.</hi>
+            </p>
+            <p>That's the firſt, they are the <hi>voice of humane nature.</hi>
+            </p>
+            <p n="2">2. They are <hi>verba ſapientiae, words of wiſdom.</hi> Wiſdom is highly requiſite in a Judge. Therefore <hi>Solomon</hi> (wiſe already) made it his Prayer, which God ſo highly approved, 1 <hi>Kings</hi> 3.9. <hi>Give thy ſervant an underſtanding heart to judge thy people.</hi> Or as it is, 1 <hi>Chron.</hi>
+               <pb n="11" facs="tcp:64848:9"/>1.10. <hi>Give me wiſdom and under<g ref="char:EOLhyphen"/>ſtanding, for who can judge this thy people that is ſo great.</hi> And <hi>Hiram</hi> bleſſed God for giving to his Friend <hi>David a wiſe Son to judge his people Iſrael.</hi> Now <hi>wiſdom</hi> conſiſts in the adapting <hi>ſutable means</hi> for the at<g ref="char:EOLhyphen"/>tainment of <hi>deſirable ends.</hi> The end of judicial proceedings, is to give to every Man what is <hi>right,</hi> and due to him. Now what <hi>means</hi> can be ſo ſit, and conduce ſo evidently to this, as to ſift out truth by a full and fair hearing of all the Allega<g ref="char:EOLhyphen"/>tions, Pleas, and Defences of the Parties concerned. 'Twas this that gave <hi>Solomon</hi> that Renown in judging betwixt the two Harlots, 1 <hi>King.</hi> 3. <hi>ult.</hi> That all who heard it ſaid, <hi>The wiſdom of God was in him to do judgment.</hi> For 'twas from their own mouths he diſcovered which was the true Mother of the Child, which he had never done had he not let them <hi>Say on.</hi>
+            </p>
+            <p n="3">
+               <pb n="12" facs="tcp:64848:10"/>3. <hi>Verba juſtitiae &amp; aequitatis, They are words of Equity and Righte<g ref="char:EOLhyphen"/>ouſneſs.</hi> 'Tis moſt juſt to hear Men out what they have to ſay, before they be condemned, or acquitted: therefore 'tis a cuſtomary queſtion after Indictment read, and Evidence produced, <hi>What canſt thou ſay for thy ſelf?</hi> and no Proclamation more common in Courts than <hi>Let them come forth, and they ſhall be heard.</hi>
+            </p>
+            <p>'Tis a Rule in every Man's Mouth.</p>
+            <q>
+               <p>Qui aliquid ſtatuerit, parte inaudita altera,</p>
+               <p>Aequum licet ſtatuerit, haud aequus ta<g ref="char:EOLhyphen"/>men fuerit.</p>
+            </q>
+            <p>
+               <hi>He that determines any thing with<g ref="char:EOLhyphen"/>out hearing both ſides, although he chances to determine what is juſt, yet is not juſt himſelf in ſo determining.</hi>
+            </p>
+            <p>Therefore 'twas praiſe-worthy Juſtice in <hi>Agrippa,</hi> Act. 26, that he
+<pb n="13" facs="tcp:64848:10"/>ſaid to the Priſoner, <hi>Paul, thou art permitted to ſpeak for thy ſelf.</hi> And it was a ſtanding Rule amongſt the Romans (a People ſo renowned for their <hi>Juſtice,</hi> that S. <hi>Auguſtine</hi> a<g ref="char:EOLhyphen"/>ſcribes all their Succeſſes to God's rewarding of their Juſtice) <hi>not to deliver any Man to die, till the Accu<g ref="char:EOLhyphen"/>ſed had his Accuſers face to face, and liberty to anſwer for himſelf,</hi> Act. 25.16.</p>
+            <p n="4">4. They are <hi>verba miſericordiae, words of mercy,</hi> and commendable compaſſion and condeſcenſion.</p>
+            <p>The awful Solemnities which at<g ref="char:EOLhyphen"/>tend Courts of Judicature, do often ſtrike a conſternation into thoſe who appear before them; and few Men, of low and common Education, have that <hi>preſence</hi> of <hi>ſpirit</hi> and <hi>audacity,</hi> whether <hi>Principals</hi> or <hi>Witneſs,</hi> to recollect themſelves ſuddenly.</p>
+            <p>'Tis therefore very commendable compaſſion to relieve them againſt their fears and amazements, and
+<pb n="14" facs="tcp:64848:11"/>not to diſcourage or put them out of countenance, nor ſuffer others to do it, but rather to raiſe them to a juſt confidence, by bearing with, and helping them againſt their weak<g ref="char:EOLhyphen"/>neſſes, with theſe, or words of the ſame import, <hi>Say on,</hi> be not diſ<g ref="char:EOLhyphen"/>mayed, or afraid, but ſpeak freely, let us hear all you have to ſay.</p>
+            <p n="5">5. Laſtly, They are <hi>verba pati<g ref="char:EOLhyphen"/>entiae, words of patience;</hi> than which, nothing is a greater ornament to the Tribunals of Juſtice, no word worſe becoming their mouths who ſit on them, than <hi>non vacat,</hi> which made the poor Woman reply ſo ſmartly to <hi>Philip</hi> of <hi>Macedon,</hi> who when ſhe demanded Audience and Juſtice of him, ſaid, <hi>He could not tend it,</hi> or <hi>was not at leiſure: Why then will you be King? I pray, Sir, let ſome body elſe be that can and will.</hi>
+            </p>
+            <q>De vita hominis nulla cunctatio lon<g ref="char:EOLhyphen"/>ga.</q>
+            <pb n="15" facs="tcp:64848:11"/>
+            <p>No deliberation, no delay ſhould be eſteemed long, in which ſo precious a thing as the life of a Man is con<g ref="char:EOLhyphen"/>cerned.</p>
+            <p>And becauſe you <hi>Gentlemen</hi> of the <hi>Long Robe</hi> have a juſt veneration for the ſage and grave Sayings of your <hi>Predeceſſors,</hi> I'll cite a memo<g ref="char:EOLhyphen"/>rable and very commendable Paſſage I heard near forty years ago at <hi>Cam<g ref="char:EOLhyphen"/>bridge</hi> Caſtle, from the Lord Chief Juſtice <hi>Banks,</hi> when an inferiour Officer of the Court prayed him to make haſte, for they ſhould be too late. He openly replyed, <hi>I had ra<g ref="char:EOLhyphen"/>ther travel all night, or put my ſelf to any inconvenience, than the King's Juſtice ſhould be denyed to any of his Liege People, or huddle over buſineſs for want of time to hear it fairly.</hi>
+            </p>
+            <p>And this for the <hi>Speaker,</hi> as they are the words of a <hi>King</hi> or <hi>Judge,</hi> ecchoing the ſentiments <hi>of humane nature,</hi> ſpeaking as a <hi>wiſe,</hi> a <hi>juſt,</hi> a <hi>merciful,</hi> a <hi>patient Judge, Say on.</hi>
+               <pb n="16" facs="tcp:64848:12"/>All Virtues ſo ornamental to Tribu<g ref="char:EOLhyphen"/>nals, that nothing can be more.</p>
+            <p>I proceed to the <hi>ſecond</hi> Conſide<g ref="char:EOLhyphen"/>ration: that is, of the <hi>Perſon to whom</hi> they were ſpoken: that is, to a <hi>Pe<g ref="char:EOLhyphen"/>titioner,</hi> a <hi>Plantiff,</hi> who came to plead her cauſe before him as her <hi>Judge.</hi>
+            </p>
+            <p>And Firſt, they were <hi>dicta mulie<g ref="char:EOLhyphen"/>ri, ſpoken to a woman;</hi> whoſe Sex expoſed her to ſome pre<g ref="char:EOLhyphen"/>judice, as not needing over much en<g ref="char:EOLhyphen"/>couragement to ſpeak: yet he ſaith not, She'll talk enough without bid<g ref="char:EOLhyphen"/>ding; and if I encourage her, ſhe'll never have done. <hi>No idle or frivo<g ref="char:EOLhyphen"/>lous pretences ſhould debar thoſe whoſe Lives, Eſtates, or other near Con<g ref="char:EOLhyphen"/>cernments lye at ſtake, from a full and fair Hearing.</hi> He ſaith to the Wo<g ref="char:EOLhyphen"/>man, <hi>Say on.</hi>
+            </p>
+            <p n="2">
+               <pb n="17" facs="tcp:64848:12"/>2. <hi>Dicta Viduae,</hi> they were <hi>ſpoken to a Widow. Widow-hood</hi> is a for<g ref="char:EOLhyphen"/>lorn eſtate, and <hi>Widow</hi> is a deſolate name. Had the <hi>Plaintiff</hi> been a <hi>great man,</hi> no wonder that ſuch an one ſhould obtain a Full Hearing. But to give leave and encouragement to a poor, to a deſolate <hi>Widow,</hi> to <hi>Say on,</hi> this was much to be <hi>wonder<g ref="char:EOLhyphen"/>ed</hi> at, but more to be <hi>commended.</hi> 'Twas ſuch a piece of Juſtice in righteous <hi>Job</hi> that rendred him ſo eminent: the words are ſo remark<g ref="char:EOLhyphen"/>able, I cannot omit the rehearſal of them at large: <hi>Job</hi> 29.11, 12, 13, 14, 15, 16, 17. <hi>When the ear heard me, then it bleſſed me; and when the eye ſaw me, it gave witneſs to me. Be<g ref="char:EOLhyphen"/>cauſe I delivered the poor that cryed, and the fatherleſs and him that had none to help him. The Bleſſing of him that was ready to periſh, came upon me, and I cauſed the widows heart to ſing for joy. I put on righteouſneſs, and it cloathed me, my judgment was
+<pb n="18" facs="tcp:64848:13"/>a Robe and Diadem. I was eyes to the blind, and feet was I to the lame. I was a father to the poor, and the cauſe which I knew not I ſearched out: and I brake the jaws of the wicked, and plucked the ſpoil out of his teeth.</hi> Than which words there can be no better Commentary upon <hi>David</hi>'s ſaying to a deſolate and <hi>poor widow, Say on.</hi>
+            </p>
+            <p n="3">3. <hi>Dicta Reo, ſpoken to a guilty perſon.</hi> For if it be true, that in the eye of the Law, <hi>Actor &amp; Reus eandem ſuſtinent perſonam:</hi> What is ſaid to <hi>him</hi> or <hi>her</hi> that pleads the cauſe of the <hi>guilty,</hi> is ſaid as to the <hi>guilty.</hi> To ſuſpend prejudice, and to hear out a preſumed guilty party, argues much candor and mo<g ref="char:EOLhyphen"/>deration. The <hi>Law</hi> ſuppoſes every man <hi>honeſt</hi> and <hi>innocent:</hi> and every man's cauſe <hi>juſt</hi> and <hi>good,</hi> till it is found, and appears otherwiſe; and
+<pb n="19" facs="tcp:64848:13"/>that cannot be without diſcuſſing it; therefore no preſumptive prejudices ſhould ſtop their mouths, or debar them their <hi>Plea.</hi> Let even ſuch therefore <hi>Say on.</hi>
+            </p>
+            <p n="4">4. <hi>Dicta reo parricidii, they were ſpoken to one guilty of Murder,</hi> the worſt of <hi>Crimes,</hi> and <hi>Fratricide</hi> the worſt of <hi>Murders.</hi> The fouleſt of<g ref="char:EOLhyphen"/>fences cut not off the offender from liberty to plead his cauſe, to defend, and if he can, to clear himſelf: which minds me of God's own pro<g ref="char:EOLhyphen"/>ceeding with <hi>Cain</hi> in the very ſame Circumſtances, when he had ſlain his Brother <hi>Abel;</hi> Gen. 4. <hi>Where is thy Brother? What haſt thou done?</hi> Which Queſtions imply a liberty to anſwer, left him.</p>
+            <p n="5">5. <hi>Dicta conſitenti, to one who had confeſſed the Fact,</hi> and in effect <hi>ac<g ref="char:EOLhyphen"/>cuſed</hi> him whom ſhe came to defend
+<pb n="20" facs="tcp:64848:14"/>and <hi>plead</hi> for; Circumſtances oft al<g ref="char:EOLhyphen"/>ter the caſe very much, and great alleviations may be urged, which may extenuate the fault, though they neither do, or can deny the Fact; therefore even <hi>confitenti reo,</hi> ſay, <hi>Say on.</hi>
+            </p>
+            <p n="6">6. But laſtly, <hi>dicta humili &amp; ſup<g ref="char:EOLhyphen"/>plicanti, they were ſpoke to one who was humble and modeſt, and made requeſt for audience:</hi> ver. 4. <hi>She fell on her face and made obeyſance.</hi> She ſaid, <hi>Let thy handmaid I pray thee, ſpeak a word to my Lord the King. She made ſupplication to her Judge:</hi> ſhe be<g ref="char:EOLhyphen"/>haved not her ſelf unſeemly, ſhe did not extort an Hearing with noiſe and clamour: nor like the o<g ref="char:EOLhyphen"/>ther <hi>Widow,</hi> Luke 18. weary him out with importunity, and ſo <hi>teez</hi> the Judge, that he did her <hi>Juſtice</hi> to be <hi>quiet,</hi> and reliev'd her in his own defence: no, ſhe ſought it humbly,
+<pb n="21" facs="tcp:64848:14"/>and obtain'd it candidly.</p>
+            <p>'Tis infinitely indecent, and a great deſecrating and prophaning ſo ſacred a place as a Court of Judi<g ref="char:EOLhyphen"/>cature, and ſo holy a thing as Juſtice it ſelf is, to bawl, and jeer, and make a noiſe, and is ſo far from being manly, that this Woman may ſhame them to uſe their Tongues better. And ſuch procedure gives juſt ſuſpi<g ref="char:EOLhyphen"/>cion, that the <hi>merits</hi> of that cauſe are not very good, which needs the raiſing ſo much duſt, to cloud them from the eyes of <hi>ſober Reaſon.</hi>
+            </p>
+            <p>When S. <hi>Paul</hi> pleaded before King <hi>Agrippa</hi> and <hi>Feſtus,</hi> his Plea was <hi>words of truth and ſoberneſs:</hi> Act. 26.25.</p>
+            <p>The King's preſumed preſent in his Courts, and a greater than <hi>He,</hi> the <hi>King</hi> of <hi>Kings, He judgeth a<g ref="char:EOLhyphen"/>mongſt
+<pb n="22" facs="tcp:64848:15"/>the Gods, the judgment is the Lord's.</hi>
+            </p>
+            <p>Therefore all things ſhould be car<g ref="char:EOLhyphen"/>ried as becomes ſuch a preſence, <hi>gravely, modeſtly, ſoberly, ſeriouſly,</hi> for though every <hi>good Judge</hi> will ſay to ſuch, with <hi>David</hi> here, <hi>Say on.</hi> I ſuppoſe no <hi>wiſe Judge</hi> will ſay in <hi>earneſt</hi> what <hi>Job</hi> once ſaid in <hi>Irony,</hi> Job 21.3. <hi>Mock on.</hi>
+            </p>
+            <p n="3">3. <hi>Quo fine, for what end,</hi> intent, or purpoſe did he give her this leave and encouragement to <hi>Say on.</hi> Certainly for many wiſe, and great and good ones, to ſuggeſt ſome of which, may be uſeful and exem<g ref="char:EOLhyphen"/>plary.</p>
+            <p>
+               <hi>Firſt, To find out the truth and right.</hi> The <hi>Tongue</hi> is the <hi>Hearts</hi> Interpreter, and other mens Infor<g ref="char:EOLhyphen"/>mer; and truth is often bolted out, by the moving of the Lips.</p>
+            <pb n="23" facs="tcp:64848:15"/>
+            <p>A plain Story innocently told, that comes freely without pains, diſ<g ref="char:EOLhyphen"/>guiſe, or artifice, that is coherent and ſelf conſiſtent, is a good argu<g ref="char:EOLhyphen"/>ment of honeſt ſimplicity. When on the other ſide, fair liberty of Speech being granted, if they ſhuf<g ref="char:EOLhyphen"/>fle, heſitate, and ſtick, contradict themſelves, and have little or no<g ref="char:EOLhyphen"/>thing to ſay, 'tis a ſhrewd preſum<g ref="char:EOLhyphen"/>ption all is not right; and ſo (though it be uncomely in this place, to name the Proverb, 'tis like occurs to all your thoughts) offenders are oft <hi>enſnared by their own lips:</hi> and <hi>their tongues fall upon themſelves,</hi> and they are <hi>judged out of their own mouths.</hi>
+            </p>
+            <p>For nothing is eaſier than to tell a true Story plainly, as the matter is, truth being always conſiſtent with it ſelf, and to defend a juſt and ho<g ref="char:EOLhyphen"/>neſt cauſe, which carries with it it's
+<pb n="24" facs="tcp:64848:16"/>own evidence. So nothing is harder than to make a falſe matter appear true, and a foul cauſe to appear juſt and clear to a diſcerning mind. Let them therefore <hi>Say on,</hi> 'tis the way to <hi>clear the innocent,</hi> to <hi>convict the guilty,</hi> and bring truth to light.</p>
+            <p n="2">2. <hi>To preſerve the honour of Ju<g ref="char:EOLhyphen"/>dicial Proceedings,</hi> which is of great Concernment.</p>
+            <p>While the <hi>Judge</hi> judges the <hi>Cri<g ref="char:EOLhyphen"/>minals,</hi> or between the parties <hi>liti<g ref="char:EOLhyphen"/>gant,</hi> all the Aſſembly will be ſure to judge him: and therefore 'tis not e<g ref="char:EOLhyphen"/>nough to decree what is juſt; but to make it manifeſt that he proceeds juſtly; even <hi>God</hi> himſelf, whoſe nature ſecures him from all unrigh<g ref="char:EOLhyphen"/>teouſneſs, and makes it impoſſi<g ref="char:EOLhyphen"/>ble for him to do injuſtice, yet takes care to make it apparent, that he proceeds juſtly, that <hi>he may be juſtified when he ſpeaketh,</hi> and
+<pb n="25" facs="tcp:64848:16"/>
+               <hi>clear when he judgeth.</hi> As we have it, <hi>Pſal.</hi> 51.4. or as the Apoſtle turns the words, <hi>Rom.</hi> 3.4. <hi>That thou mighteſt be juſtified in thy ſay<g ref="char:EOLhyphen"/>ings, and mighteſt overcome when thou art judged.</hi> God himſelf cannot e<g ref="char:EOLhyphen"/>ſcape the cenſure of the world; and therefore for the honour of his Righteouſneſs he will manifeſt his proceedings to be juſt, that no place may be left for cavil or re<g ref="char:EOLhyphen"/>proach.</p>
+            <p n="3">3. <hi>To put an end to ſtrife and con<g ref="char:EOLhyphen"/>tention.</hi> What is the reaſon of bringing the ſame cauſe ſo often o<g ref="char:EOLhyphen"/>ver, but pretence of not having had a fair Hearing at the firſt. Wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>'s well done, is twice done. And try<g ref="char:EOLhyphen"/>ing Cauſes well once, would prevent the trying of them, it may be, twice or thrice: 'tis not only for your honour therefore, but for your caſe, to let them, <hi>Say on.</hi>
+            </p>
+            <p n="4">
+               <pb n="26" facs="tcp:64848:17"/>4. <hi>To prevent clamour.</hi> We have a Proverb, <hi>Loſers will have leave to talk,</hi> and they often talk ſo much when they have loſt, becauſe they had not leave to talk, to prevent their loſing. Let them therefore <hi>Say on</hi> before the Sentence, and they will have nothing to ſay after. Yea, the <hi>condemned Criminals</hi> will yield their lives more ſilently, and calmly, and ſubmiſly to the Law, when Con<g ref="char:EOLhyphen"/>demnation was not awarded, till they had liberty to make their beſt defence.</p>
+            <p n="5">5. <hi>To reſtrain the violence of proud oppreſſing Men.</hi> Nothing ſo much emboldens great Men to oppreſs, and wrong, and grind the poor, as a confidence that their complaints will not be heard or regarded.</p>
+            <p>Now if the <hi>Magiſtrate</hi> will con<g ref="char:EOLhyphen"/>ſider
+<pb n="27" facs="tcp:64848:17"/>the cauſe of the <hi>needy</hi> and <hi>af<g ref="char:EOLhyphen"/>flicted,</hi> the <hi>Fatherleſs,</hi> and <hi>Widow,</hi> the <hi>poor</hi> and <hi>helpleſs</hi> when they cry to him, this will be a mighty re<g ref="char:EOLhyphen"/>ſtraint, that <hi>the man of the earth ſhall no more oppreſs.</hi>
+            </p>
+            <p>The one would not dare to <hi>lay on</hi> ſo unmercifully, as oft they do, if they knew the other ſhould obtain ſo merciful a <hi>Say on,</hi> when they make complaint.</p>
+            <p n="6">6. <hi>Laſtly, that true ſentence may paſs,</hi> according to the merits of the Cauſe, and as ſhall appear juſt up<g ref="char:EOLhyphen"/>on a Full Hearing. This is the Life and Crown of all; for of the two it were better, and more tolerable to huddle up a buſineſs, and precipi<g ref="char:EOLhyphen"/>tate a Sentence, though this be a ve<g ref="char:EOLhyphen"/>ry great fault, than to paſs Sentence againſt, and give Judgment con<g ref="char:EOLhyphen"/>trary to the merits of a Cauſe, and what hath been made appear upon a
+<pb n="28" facs="tcp:64848:18"/>Full Hearing to be juſt and righte<g ref="char:EOLhyphen"/>ous.</p>
+            <p>Therefore that a <hi>ſacred Court</hi> may not be branded with the prophane name of a <hi>fortuitous Lottery,</hi> let the Pleader <hi>Say on;</hi> and let his ſo doing be crown'd with the <hi>Reverend Judg<g ref="char:EOLhyphen"/>es,</hi> ſaying in his Sentence what is <hi>Juſt</hi> and <hi>Right,</hi> according to the ap<g ref="char:EOLhyphen"/>parent merits of the Cauſe. And thus far briefly of the Words, as they have an aſpect on the Aſ<g ref="char:EOLhyphen"/>ſize.</p>
+            <p>But I may well ſuppoſe you are not all concern'd in the <hi>peculiar bu<g ref="char:EOLhyphen"/>ſineſs of the day,</hi> and the ſpecial oc<g ref="char:EOLhyphen"/>caſion of this Solemn Appearance: and ſo my Diſcourſe hath hitherto not reached many of you: and I would be loath that any man ſhould wholly loſe his labour of At<g ref="char:EOLhyphen"/>tendance here, eſpecially by my fault.</p>
+            <pb n="29" facs="tcp:64848:18"/>
+            <p>I ſhall therefore borrow a ſhort liberty for a double improvement of theſe Words, <hi>Say on,</hi> in a more <hi>ſpiritual manner;</hi> and ſo, as may be of an <hi>univerſal influence</hi> and uſe.</p>
+            <p>Firſt, <hi>Give God a fair Hearing,</hi> interrupt him not, let him <hi>Say on,</hi> when he pleads his own cauſe to provoke you to your Duty, or to convince you of your neglect of it.</p>
+            <p>Secondly, <hi>Bethink your ſelves what you have to ſay, make your Plea ready,</hi> againſt God's calling you to account. When he ſhall ſay to you, why <hi>do</hi> you, or why <hi>did</hi> you <hi>ſo,</hi> or <hi>ſo,</hi> and what canſt thou <hi>ſay</hi> for thy ſelf, why thou ſhouldſt not be con<g ref="char:EOLhyphen"/>demned? <hi>Say on,</hi> thou ſhalt have a fair Hearing, <hi>ſay</hi> what thou canſt for
+<pb n="30" facs="tcp:64848:19"/>thy ſelf: take heed your ways be not ſo unaccountable, that you muſt then ſtand <hi>mute,</hi> and have nothing to <hi>ſay</hi> for your ſelves, when God bids you <hi>Say on.</hi>
+            </p>
+            <p>Firſt, As to what God hath to ſay to you, grant him a fair Hearing, cut him not ſhort, interrupt him not, but ſay unto him, <hi>Say on.</hi>
+            </p>
+            <p>And that this may appear leſs <hi>forc'd,</hi> yea, <hi>proper</hi> and <hi>pertinent:</hi> I may argue thus, If it be incumbent on the <hi>Judge</hi> to bid the Priſoner, the Pleader, the Plaintiff or Defendant, <hi>Say on,</hi> 'tis much more neceſſary, equal, and becoming, that they ſhould hear the Judge; and moſt of all, that we ſhould hear him that is the <hi>Judge of all men, the Judge of all the earth.</hi>
+            </p>
+            <p>But nearer yet, if the <hi>Judge</hi> muſt
+<pb n="31" facs="tcp:64848:19"/>hear the Pleader, <hi>Man</hi> muſt hear <hi>God:</hi> for he vouchſafes, (oh aſto<g ref="char:EOLhyphen"/>niſhing condeſcenſion!) to make man <hi>judge,</hi> and to plead his <hi>own</hi> Cauſe before the Tribunal of <hi>Man's</hi> Reaſon. <hi>Iſa.</hi> 1.18. <hi>Come let us rea<g ref="char:EOLhyphen"/>ſon together.</hi> And 5.3. <hi>O men of Judah, judge ye I pray you betwixt me and my vineyard.</hi>
+            </p>
+            <p>Where <hi>God's Plea</hi> is managed with ſuch ſtrength of Reaſon, ſuch convictive evidence, ſuch unanſwer<g ref="char:EOLhyphen"/>able clearneſs, that <hi>Intereſt it ſelf</hi> cannot bribe man to forbear giving ſentence on <hi>God's ſide.</hi>
+            </p>
+            <p>So the Prophet <hi>Samuel</hi> on <hi>God</hi>'s behalf, 1 <hi>Sam.</hi> 12.7. appeals to themſelves while he pleads <hi>God's cauſe, Stand ſtill that I may reaſon with you before the Lord of all the righteous acts of the Lord, which he did to you and your Fathers.</hi> So <hi>Jer.</hi>
+               <pb n="32" facs="tcp:64848:20"/>2.9. <hi>I will yet plead with you, ſaith the Lord, and with your childrens children will I plead.</hi> See alſo <hi>Ezek.</hi> 20.35, 36. See alſo that full place to this purpoſe, <hi>Mich.</hi> 6.1, 2, 3, 4, 5. <hi>Hear ye now what the Lord ſaith— for the Lord hath a controverſie with his people, and he will plead with Iſ<g ref="char:EOLhyphen"/>rael— O my people, what have I done unto thee,— teſtifie againſt me. — That you may know the righteouſneſs of the Lord.</hi> Now is it not all the reaſon in the world, that when <hi>God</hi> appeals to <hi>Man,</hi> and makes him <hi>Judge,</hi> and pleads before him, that he ſhould allow him a fair Hearing; and let him <hi>Say on.</hi>
+            </p>
+            <p>But to make all ſure, that we pro<g ref="char:EOLhyphen"/>ceed pertinently, we have an in<g ref="char:EOLhyphen"/>ſtance <hi>in terminis,</hi> S. <hi>Luke</hi> 7.40. where <hi>Simon</hi> the Phariſee uſeth this very word to our Lord
+<pb n="33" facs="tcp:64848:20"/>Chriſt himſelf, <hi>Maſter, Say on.</hi>
+            </p>
+            <p>Now I moſt earneſtly exhort and adjure you to do likewiſe. <hi>See that ye refuſe not him that ſpeaketh. Turn not away from him who ſpeaks from Heaven,</hi> Heb. 12.25. <hi>To day if you will hear his voice, harden not your hearts.</hi> Say with <hi>Samuel, Speak Lord, thy ſervant heareth.</hi> Reſolve with <hi>David, I will hearken what God the Lord will ſpeak,</hi> Pſal. 85.8. and with <hi>Simon, Lord, Ma<g ref="char:EOLhyphen"/>ſter, Say on.</hi>
+            </p>
+            <p>Now <hi>God ſpeaks once,</hi> yea, <hi>twice,</hi> Job 33.14. yea, <hi>thrice.</hi>
+            </p>
+            <p n="1">1. <hi>God</hi> ſpeaks to thee by the voice of thy Conſcience.</p>
+            <p n="2">2. <hi>God</hi> ſpeaks to thee by the voice of his Word.</p>
+            <p n="3">
+               <pb n="34" facs="tcp:64848:21"/>3. <hi>God</hi> ſpeaks to thee by the ſe<g ref="char:EOLhyphen"/>cret voice of his Spirit.</p>
+            <p n="1">1. He ſpeaks to Man by the voice of his Conſcience. <hi>The ſpirit of a man is the candle of the Lord,</hi> Prov. 20.27. So 'tis alſo the <hi>Tongue</hi> and <hi>Voice of the Lord.</hi> Conſcience is God's Deputy, what that ſpeaks, he ſpeaks, that accuſes or excuſes according to the Law his own Fin<g ref="char:EOLhyphen"/>ger hath written on thy heart. Therefore ſtop not its mouth, ſtifle not its checks, put it not to ſilence, but hear it out; and ſay unto it, <hi>Say on.</hi>
+            </p>
+            <p n="2">2. He ſpeaks to thee by his Word. This is beyond controverſie with all, but downright Atheiſts, that what the Scriptures ſpeak, God ſpeaketh. This <hi>teacheth thee to deny all ungodli<g ref="char:EOLhyphen"/>neſs and worldly luſts, and to live righ<g ref="char:EOLhyphen"/>teouſly, ſoberly, godly in this preſent
+<pb n="35" facs="tcp:64848:21"/>world.</hi> There's not a <hi>ſin</hi> againſt the Law of <hi>Nature</hi> or <hi>Grace,</hi> which this forbids not under pain of <hi>eternal death;</hi> nor a <hi>duty</hi> of either, to which it encourages not, with the promiſe of <hi>eternal life.</hi> This ſhews the e<g ref="char:EOLhyphen"/>quity, the reaſonableneſs, the excel<g ref="char:EOLhyphen"/>lency, the neceſſity of every <hi>Duty, Virtue, Grace:</hi> and the iniquity, unreaſonableneſs, baſeneſs, danger of every <hi>Corruption, Vice</hi> and <hi>Sin.</hi> Hear, conſider, weigh well what it ſaith.</p>
+            <p>And dare not to <hi>go on</hi> where God's Word bids thee <hi>ſtop;</hi> nor dare to <hi>ſtand ſtill</hi> where God's Word bids thee <hi>go forward.</hi>
+            </p>
+            <p>Time will not give me leave, nor will the Text well bear it, to plead God's Cauſe. I may only admoniſh you to hearken how he pleads it in
+<pb n="36" facs="tcp:64848:22"/>his Word himſelf; where you ſhall meet with all the cogent Arguments <hi>Right Reaſon</hi> can be moved by, in the behalf of <hi>Virtue, Temperance, Juſtice, Charity</hi> and <hi>univerſal Holi<g ref="char:EOLhyphen"/>neſs:</hi> and againſt <hi>Vice, Prophane<g ref="char:EOLhyphen"/>neſs, Debauchery, Diſhoneſty</hi> and <hi>Ir<g ref="char:EOLhyphen"/>religion,</hi> drawn from his authority over thee, and Benefits to thee, from all the Attributes of his Nature, from all the Methods and Inſtru<g ref="char:EOLhyphen"/>ments of his governing the Rational World. His <hi>Promiſes</hi> and <hi>Threat<g ref="char:EOLhyphen"/>nings,</hi> his <hi>Rewards</hi> and <hi>Puniſhments,</hi> &amp;c. So from <hi>Chriſt,</hi> the exam<g ref="char:EOLhyphen"/>ple of his <hi>Holy Life,</hi> the love and de<g ref="char:EOLhyphen"/>ſign of his <hi>Bloody Death,</hi> &amp;c.</p>
+            <p>Now when thou art moved to any <hi>Duty,</hi> or tempted to any <hi>Sin,</hi> before thou refuſe the <hi>one,</hi> or yield to the <hi>other,</hi> hear fully what <hi>God</hi> in his Word ſaith for it, or againſt it. Let <hi>God</hi> make his full <hi>Plea</hi> before thou
+<pb n="37" facs="tcp:64848:22"/>yieldeſt, and giveſt ſentence for the <hi>World,</hi> the <hi>Fleſh,</hi> the <hi>Devil;</hi> do not precipitate, and becauſe one reaſon prevails not, reſolve to hear no more, but hear him out, <hi>Maſter, Say on.</hi>
+            </p>
+            <p>If his bare <hi>authority</hi> prevail not, try what the obliging ſenſe of his <hi>Benefits</hi> may do. If <hi>Thus ſaith the Lord,</hi> be not enough, hear him, ſaying, <hi>O fooliſh people, will ye thus requite the Lord?</hi> If his <hi>love con<g ref="char:EOLhyphen"/>ſtrain thee</hi> not, try whether his <hi>fear,</hi> and the terrors of the Lord may not <hi>reſtrain</hi> thee, if the <hi>promiſes</hi> and <hi>hopes</hi> of going to Heaven be too light, put in the <hi>wrath</hi> revealed from Heaven, and the conſideration of <hi>eternal Burnings.</hi>
+            </p>
+            <p>If <hi>Gods Glory</hi> move thee not, hear what he ſaith of thine <hi>own in<g ref="char:EOLhyphen"/>tereſt:</hi> if the declaration of the pro<g ref="char:EOLhyphen"/>miſes
+<pb n="38" facs="tcp:64848:23"/>and threatenings ſuffice not, hear what he ſaith of the fullfilling and exemplifying of them upon o<g ref="char:EOLhyphen"/>thers, to give thee warning.</p>
+            <p>I ſuggeſt theſe few Inſtances tran<g ref="char:EOLhyphen"/>ſiently, which may teach you to make many more; and I beſeech you do it, hear all <hi>God</hi> ſaith for <hi>Duty,</hi> and againſt <hi>Sin,</hi> before you reject the one, or yield to the other; and remember that the ſinfulneſs of the world, and their final condemnation is chiefly aſcribed to their not hear<g ref="char:EOLhyphen"/>ing what God ſaith to them in the Word. Peruſe with greateſt ſeri<g ref="char:EOLhyphen"/>ouſneſs that awakening place, <hi>Prov.</hi> 1.24. to the end: which if you mind, as you ſhould do, I hope you'll give God a Fuller Hearing for the future; and when <hi>he</hi> ſpeaks to you in his Word, will let him plead his Cauſe at large, and <hi>Say on.</hi>
+            </p>
+            <p n="3">
+               <pb n="39" facs="tcp:64848:23"/>3. He ſpeaks to you by his Spi<g ref="char:EOLhyphen"/>rit, whiſpering ſecretly and ſilently to your Hearts. There is an inti<g ref="char:EOLhyphen"/>mate converſe betwixt God's Spirit and Man's, of which the ſtanders by can take no notice.</p>
+            <p>
+               <hi>Thou ſhalt hear a voice behind thee, ſaying, this is the way, walk in it,</hi> Iſa. 30.21.</p>
+            <p>Hear him therefore as a <hi>ſpirit of conviction,</hi> pleading with thee to convince thee of, and bring thee to repentance for thy paſt Sins.</p>
+            <p>As a <hi>ſpirit of excitation</hi> ſtirring and quickening thee to preſent Duty, as a ſpirit of <hi>reſtraint</hi> to withdraw thee from thy ſinful practices or purpoſes. <hi>Oh do not this abominable thing which I hate.</hi>
+            </p>
+            <pb n="40" facs="tcp:64848:24"/>
+            <p>As a ſpirit of <hi>Application,</hi> ſetting home general truths to a man's particular caſe: this concerns thee, <hi>Thou art the Man: Generalia non pun<g ref="char:EOLhyphen"/>gunt:</hi> therefore the ſpirit in the reading or hearing the Word, uſes to infer from Ge<g ref="char:EOLhyphen"/>nerals, and apply in this or the like manner; <hi>If the wrath of God be revealed from Heaven againſt all unrighte<g ref="char:EOLhyphen"/>ouſneſs,</hi> then againſt <hi>mine.</hi> If every one be accurſed <hi>that continues not in all things that are written in the Law,</hi> then ſo am I. If <hi>every one that repents not muſt periſh,</hi> then muſt I, if I repent not, <hi>the
+<pb n="41" facs="tcp:64848:24"/>ſpirit and the bride ſay come, and whoever will, let him take of the water of life freely;</hi> then I may take it, 'tis as free to me as to any other, God hath not excluded me, if I exclude not my ſelf, <hi>&amp; ſic in caeteris,</hi> in the general <hi>threats, promi<g ref="char:EOLhyphen"/>ſes,</hi> precepts. Oh therefore when the ſpirit ſtands at the <hi>door and knocks, open to him;</hi> when he <hi>calls, anſwer him. Reſiſt him not, provoke him not, quench him not, grieve him not,</hi> put him not to ſi<g ref="char:EOLhyphen"/>lence, treat him not rudely, turn not a deaf ear, but ſay unto him, <hi>What wilt thou have me do? Speak, Lord,
+<pb n="42" facs="tcp:64848:25"/>thy ſervant heareth:</hi> Bleſſed Lord, <hi>Say on.</hi>
+            </p>
+            <p>The laſt improvement I ſhall make of the words, is to mind you to get ready a good Plea againſt the time God ſhall call for it, and give you the liberty to uſe t.</p>
+            <p>There is a day approaching, nay, in ſome degree now is, in which we muſt appear at <hi>God's Tribunal,</hi> and though we muſt expect a ſtrict, yet we may aſſure our ſelves of a <hi>Fair Trial. God</hi> will hear us out: he will give us leave to <hi>Say on</hi> all that we can ſay with reaſon, for our juſt defence: <hi>Iſay</hi> 41.21. <hi>Produce your cauſe,
+<pb n="43" facs="tcp:64848:25"/>will the Lord ſay, bring forth your ſtrong reaſons, ſaith the king of Jacob.</hi>
+            </p>
+            <p>Reſolve therefore with the Prophet, <hi>Habbak.</hi> 2.1. <hi>To watch to ſee what he will ſay to you, and what you ſhall an<g ref="char:EOLhyphen"/>ſwer, when you are reproved or argued with.</hi>
+            </p>
+            <p>Now God hath <hi>two Tribu<g ref="char:EOLhyphen"/>nals:</hi> one in <hi>this world,</hi> the other in the <hi>world to come.</hi> The <hi>firſt</hi> erected in every man's Breaſt, his <hi>Conſcience</hi> enlightened by the word, which is <hi>magni judicii prae ju<g ref="char:EOLhyphen"/>dicium:</hi> as a private <hi>Seſſions</hi> preparatory to the general and grand <hi>Aſſiſe,</hi> which is the
+<pb n="44" facs="tcp:64848:26"/>
+               <hi>ſecond,</hi> the <hi>judgment ſeat</hi> of Chriſt, at <hi>which we muſt all appear to give an account of all we have done in the fleſh, whether good or evil.</hi>
+            </p>
+            <p>I beſeech you therefore be<g ref="char:EOLhyphen"/>think your ſelves before hand, provide your <hi>Plea,</hi> for God will certainly call for it.</p>
+            <p>
+               <hi>Firſt,</hi> What haſt thou to ſay when God ſhall ſummon thee to appear before his <hi>De<g ref="char:EOLhyphen"/>puty,</hi> thy own <hi>Conſcience?</hi> and ſhall demand a reaſon of thy ways? O <hi>man,</hi> why doſt thou do <hi>ſo</hi> or <hi>ſo?</hi> I am ready to hear thee; <hi>Say on.</hi>
+            </p>
+            <p>A wiſe man ſhould do no<g ref="char:EOLhyphen"/>thing, for which he cannot
+<pb n="45" facs="tcp:64848:26"/>give <hi>a good reaſon.</hi> And I know no <hi>reaſon good,</hi> but this, or what is reduceable to this. God <hi>commands</hi> me, or at leaſt <hi>allows</hi> me ſo to do. I ap<g ref="char:EOLhyphen"/>peal therefore to the Conſci<g ref="char:EOLhyphen"/>ences of all that hear me this day, whether you can give this reaſon for all the actions of your lives, <hi>God commands</hi> me, or <hi>allows</hi> me to do what I do. If you can, 'tis well: happy Congregation, bleſſed Aſſembly are you!</p>
+            <p>But this is a thing rather to be <hi>wiſhed</hi> it were, than <hi>ho<g ref="char:EOLhyphen"/>ped</hi> it is. If therefore there be any who comes to bear falſe witneſs againſt his Neigh<g ref="char:EOLhyphen"/>bour,
+<pb n="46" facs="tcp:64848:27"/>who comes, though he gilds over his malice and vio<g ref="char:EOLhyphen"/>lence with pretext of Law, to <hi>vex,</hi> to <hi>wrong,</hi> or to <hi>oppreſs</hi> his Brother: or to defend what he knows to be an un<g ref="char:EOLhyphen"/>righteous Cauſe, to the ruine of the poor and innocent, can he ſay <hi>ſo?</hi> Can he that ſwears <hi>falſly</hi> by the God of <hi>Truth,</hi> or cuſtomarily by the name of him who is a God of <hi>Holi<g ref="char:EOLhyphen"/>neſs,</hi> ſay, <hi>ſo?</hi> Can the <hi>Drunk<g ref="char:EOLhyphen"/>ard,</hi> the <hi>Lyar,</hi> the <hi>Adulterer,</hi> the <hi>Thief,</hi> the <hi>Deſpiſer</hi> of <hi>Ho<g ref="char:EOLhyphen"/>lineſs,</hi> ſay God <hi>commands</hi> him, or <hi>allows</hi> him to be <hi>ſuch?</hi>
+            </p>
+            <p>I beſeech you deal upright<g ref="char:EOLhyphen"/>ly, and venture not to do any
+<pb n="47" facs="tcp:64848:27"/>thing, of which you cannot give a good account and rea<g ref="char:EOLhyphen"/>ſon to God and your own Conſciences; <hi>for if your heart condemn you, God is greater than your heart, and will con<g ref="char:EOLhyphen"/>demn you much more.</hi>
+            </p>
+            <p>Laſtly, I pray conſider well what <hi>Plea</hi> thou wilt make at the day of Judgment; 'tis an awful and awakening thing to name it, or to think on't. But it will be a moſt dreadful thing then to ſtand mute, not as ſome do at the Bar, through <hi>ſullen<g ref="char:EOLhyphen"/>neſs</hi> or <hi>ſtomach;</hi> but as the man who thruſt in to the <hi>Wedding Feast</hi> without a <hi>Wedding Garment</hi> to be
+<pb n="48" facs="tcp:64848:28"/>
+               <hi>ſpeechleſs,</hi> and have <hi>nothing to ſay,</hi> when God bids them, <hi>Say on.</hi>
+            </p>
+            <p>And I moſt earneſtly en<g ref="char:EOLhyphen"/>treat you, and adjure you not to ſatisfie your ſelves in any <hi>Pleas</hi> which will not be al<g ref="char:EOLhyphen"/>lowed, or hold good at that day.</p>
+            <p>'Twill not ſerve your turn then to ſay, I neither believed, nor thought of ſuch a day; if I had, I would have prepa<g ref="char:EOLhyphen"/>red better for it: nor to ſay I knew indeed, and ſometimes thought of that day, and re<g ref="char:EOLhyphen"/>ſolved to be prepared before I died, but that I was prevent<g ref="char:EOLhyphen"/>ed by dying ſooner than I made account I ſhould.</p>
+            <pb n="49" facs="tcp:64848:28"/>
+            <p>No, nor to ſay, I was bapti<g ref="char:EOLhyphen"/>zed, and kept my Church, and ſometimes ſaid my Prayers, and only did what I ſaw others do before me, who were my Betters, and wiſer men than I, and though I often did what I fear I ſhould not, I was reſolved to ſay I am very ſorry, and cry God mercy when I came to die. He that hath no better ſtuff than this, no wiſer <hi>Plea</hi> to make, will have little liſt to <hi>Say on,</hi> when God ſhall bid him do ſo.</p>
+            <p>But you will ask me what <hi>Plea</hi> will then hold? I an<g ref="char:EOLhyphen"/>ſwer, I find none <hi>in terminis</hi> in all the Bible, and 'tis not
+<pb n="50" facs="tcp:64848:29"/>wiſdom to be wiſe above and beyond what's written. I find one indeed made for them by the Judge, <hi>Matth.</hi> 25. <hi>I was hungry, and ye fed me,</hi> &amp;c. But none made formally by any man as for himſelf, I will not therefore aſſume the boldneſs to preſcribe a form to any man, to plead his cauſe then, nor in expreſs words can for<g ref="char:EOLhyphen"/>mally conclude what I would my ſelf then ſay: yet for the matter and ſubſtance I would be glad to be able with confi<g ref="char:EOLhyphen"/>dence to ſay, when God ſhall bid me plead my Cauſe, and anſwer for my ſelf.</p>
+            <p>O <hi>Lord,</hi> who knoweſt all
+<pb n="51" facs="tcp:64848:29"/>things, thou knoweſt I <hi>lov'd</hi> thee <hi>ſincerely,</hi> though not <hi>per<g ref="char:EOLhyphen"/>fectly.</hi> And that I earneſtly <hi>deſired</hi> to know thy whole <hi>will,</hi> and ſeriouſly <hi>endeavoured</hi> to fulfil it, and unfeignedly repented of my tranſgreſſions of it. Thou knoweſt, Lord, I thankfully accepted the <hi>Grace</hi> offered in the <hi>Goſpel</hi> Cove<g ref="char:EOLhyphen"/>nant; and <hi>then did,</hi> and <hi>ſtill do</hi> moſt earneſtly deſire <hi>to be found in Chriſt, not having my own righteouſneſs, but that righteouſneſs which is of God through faith in Jeſus Chriſt, whom God hath ſent forth to be a propitiation, through faith in his blood.</hi>
+            </p>
+            <pb n="52" facs="tcp:64848:30"/>
+            <p>Such a <hi>Plea</hi> made up of the <hi>conditions</hi> of the New Cove<g ref="char:EOLhyphen"/>nant, <hi>Faith</hi> and <hi>Repentance, love and univerſal new obedi<g ref="char:EOLhyphen"/>ence</hi> in ſome meaſure perform<g ref="char:EOLhyphen"/>ed by the aſſiſtance of <hi>Divine Grace,</hi> would I be glad to be provided of againſt that day.</p>
+            <p>And I doubt not but who<g ref="char:EOLhyphen"/>ever can make ſuch a <hi>Plea</hi> in truth, will have great bold<g ref="char:EOLhyphen"/>neſs to <hi>Say on,</hi> when God ſhall bid him, and ſhall hear God ſay to him, <hi>Well done, good and faithful ſervant, in<g ref="char:EOLhyphen"/>herit the kingdom prepared for thee before the foundation of the World.</hi>
+            </p>
+            <pb n="53" facs="tcp:64848:30"/>
+            <p>For which Bleſſed Sentence, he of his infinite Mercy pre<g ref="char:EOLhyphen"/>pare us, who hath by his Blood purchaſed that Kingdom for all that love him, and wait for his Appearance. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
